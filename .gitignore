@@ -38,6 +38,7 @@ jspm_packages
 
 # bundle stuff
 bundle.*
+js/build/*
 
 # ide stuff
 .tern-port
